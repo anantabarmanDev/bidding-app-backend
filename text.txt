@@ -1,0 +1,5 @@
+MVC:
+    M:model
+    V:view//html
+    C:controller
+    
